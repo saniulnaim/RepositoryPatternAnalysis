@@ -1,0 +1,1 @@
+﻿https://www.codeproject.com/Articles/1095323/Generic-Repository-Pattern-MVC
